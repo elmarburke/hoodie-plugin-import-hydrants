@@ -1,0 +1,8 @@
+{
+  "name": "hoodie-plugin-import-hydrants",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.33.0",
+    "async": "~0.2.10"
+  }
+}
